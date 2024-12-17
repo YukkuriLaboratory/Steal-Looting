@@ -1,0 +1,19 @@
+name: "datapack"
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: Ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-artifact@v4
+        with:
+          path: |
+            data
+            LICENSE
+            pack.mcmeta
+
