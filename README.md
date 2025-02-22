@@ -2,9 +2,7 @@
 
 [Rob&Peace](https://github.com/YukkuriLaboratory/RobAndPeace)と[End-Remastered](https://github.com/Jack-Bagel/End-Remastered)の親和性を高めるデータパック
 
-## ダウンロード
-
-TODO
+## [ダウンロード](https://github.com/YukkuriLaboratory/Steal-Looting/releases/download/v1.0.0/steal-looting.zip)
 
 ## 主な改変
 
